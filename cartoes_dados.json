@@ -1,0 +1,332 @@
+[
+  {
+    "titular":"NELI",
+    "banco":"ITAU",
+    "bandeira":"PLATINUM",
+    "programa":"Não informado",
+    "fechamento":"26\/03\/2025",
+    "vencimento":"01\/04\/2025",
+    "valor":9983.0,
+    "status":"PAGO"
+  },
+  {
+    "titular":"NELI",
+    "banco":"ITAU",
+    "bandeira":"CLICK",
+    "programa":"Não informado",
+    "fechamento":"26\/03\/2025",
+    "vencimento":"01\/04\/2025",
+    "valor":0.0,
+    "status":"Não Pago"
+  },
+  {
+    "titular":"NELI",
+    "banco":"INTER",
+    "bandeira":"NELI",
+    "programa":"Não informado",
+    "fechamento":"26\/03\/2025",
+    "vencimento":"01\/04\/2025",
+    "valor":0.0,
+    "status":"Não Pago"
+  },
+  {
+    "titular":"BOARIAS",
+    "banco":"ITAU",
+    "bandeira":"BOARIAS LTDA",
+    "programa":"Não informado",
+    "fechamento":"26\/03\/2025",
+    "vencimento":"03\/04\/2025",
+    "valor":39157.0,
+    "status":"PAGO"
+  },
+  {
+    "titular":"BOARIAS",
+    "banco":"CORA",
+    "bandeira":"BOARIAS LTDA",
+    "programa":"Não informado",
+    "fechamento":"26\/03\/2025",
+    "vencimento":"03\/04\/2025",
+    "valor":0.0,
+    "status":"Não Pago"
+  },
+  {
+    "titular":"THUCA",
+    "banco":"SICOOB",
+    "bandeira":"THUCA",
+    "programa":"Não informado",
+    "fechamento":"26\/03\/2025",
+    "vencimento":"03\/04\/2025",
+    "valor":0.0,
+    "status":"Não Pago"
+  },
+  {
+    "titular":"BOARIAS",
+    "banco":"SICOB",
+    "bandeira":"VISA",
+    "programa":"Não informado",
+    "fechamento":"26\/03\/2025",
+    "vencimento":"03\/04\/2025",
+    "valor":0.0,
+    "status":"Não Pago"
+  },
+  {
+    "titular":"BOARIAS",
+    "banco":"SICOB",
+    "bandeira":"MASTER",
+    "programa":"Não informado",
+    "fechamento":"26\/03\/2025",
+    "vencimento":"03\/04\/2025",
+    "valor":0.0,
+    "status":"Não Pago"
+  },
+  {
+    "titular":"THUCA",
+    "banco":"SANTANDER",
+    "bandeira":"ELITE",
+    "programa":"Não informado",
+    "fechamento":"26\/03\/2025",
+    "vencimento":"05\/04\/2025",
+    "valor":8900.0,
+    "status":"Não Pago"
+  },
+  {
+    "titular":"NELI",
+    "banco":"BRB",
+    "bandeira":"INFINITE",
+    "programa":"Não informado",
+    "fechamento":"26\/03\/2025",
+    "vencimento":"05\/04\/2025",
+    "valor":0.0,
+    "status":"Não Pago"
+  },
+  {
+    "titular":"THUCA",
+    "banco":"NUBANK",
+    "bandeira":"THUCA",
+    "programa":"Não informado",
+    "fechamento":"26\/03\/2025",
+    "vencimento":"07\/04\/2025",
+    "valor":630.0,
+    "status":"Não Pago"
+  },
+  {
+    "titular":"THUCA",
+    "banco":"BRB",
+    "bandeira":"PLATINUM",
+    "programa":"Não informado",
+    "fechamento":"26\/03\/2025",
+    "vencimento":"08\/04\/2025",
+    "valor":413.0,
+    "status":"Não Pago"
+  },
+  {
+    "titular":"NELI",
+    "banco":"BRADESCO",
+    "bandeira":"INFINITY",
+    "programa":"Não informado",
+    "fechamento":"26\/03\/2025",
+    "vencimento":"10\/04\/2025",
+    "valor":14308.0,
+    "status":"Não Pago"
+  },
+  {
+    "titular":"THUCA",
+    "banco":"BRADESCO",
+    "bandeira":"GOL",
+    "programa":"Não informado",
+    "fechamento":"26\/03\/2025",
+    "vencimento":"10\/04\/2025",
+    "valor":0.0,
+    "status":"Não Pago"
+  },
+  {
+    "titular":"THUCA",
+    "banco":"BRADESCO",
+    "bandeira":"INFINITY",
+    "programa":"Não informado",
+    "fechamento":"26\/03\/2025",
+    "vencimento":"10\/04\/2025",
+    "valor":0.0,
+    "status":"Não Pago"
+  },
+  {
+    "titular":"NELI",
+    "banco":"BRADESCO",
+    "bandeira":"AZUL",
+    "programa":"Não informado",
+    "fechamento":"26\/03\/2025",
+    "vencimento":"10\/04\/2025",
+    "valor":0.0,
+    "status":"Não Pago"
+  },
+  {
+    "titular":"NELI",
+    "banco":"INTER",
+    "bandeira":"THUCA",
+    "programa":"Não informado",
+    "fechamento":"26\/03\/2025",
+    "vencimento":"10\/04\/2025",
+    "valor":0.0,
+    "status":"Não Pago"
+  },
+  {
+    "titular":"NELI",
+    "banco":"BANCO DO BRASIL",
+    "bandeira":"OUROCARD",
+    "programa":"Não informado",
+    "fechamento":"26\/03\/2025",
+    "vencimento":"10\/04\/2025",
+    "valor":0.0,
+    "status":"Não Pago"
+  },
+  {
+    "titular":"THUCA",
+    "banco":"BRADESCO",
+    "bandeira":"AMEX",
+    "programa":"Não informado",
+    "fechamento":"26\/03\/2025",
+    "vencimento":"10\/04\/2025",
+    "valor":0.0,
+    "status":"Não Pago"
+  },
+  {
+    "titular":"NELI",
+    "banco":"INTER",
+    "bandeira":"DÓLAR",
+    "programa":"Não informado",
+    "fechamento":"26\/03\/2025",
+    "vencimento":"10\/04\/2025",
+    "valor":0.0,
+    "status":"Não Pago"
+  },
+  {
+    "titular":"FABIULA",
+    "banco":"SICOOB",
+    "bandeira":"PLATINUM",
+    "programa":"Não informado",
+    "fechamento":"26\/03\/2025",
+    "vencimento":"11\/04\/2025",
+    "valor":0.0,
+    "status":"Não Pago"
+  },
+  {
+    "titular":"THUCA",
+    "banco":"BRB",
+    "bandeira":"MASTER",
+    "programa":"Não informado",
+    "fechamento":"26\/03\/2025",
+    "vencimento":"11\/04\/2025",
+    "valor":8323.74,
+    "status":"Não Pago"
+  },
+  {
+    "titular":"NELI",
+    "banco":"C6",
+    "bandeira":"NELI",
+    "programa":"Não informado",
+    "fechamento":"26\/03\/2025",
+    "vencimento":"15\/04\/2025",
+    "valor":209.0,
+    "status":"Não Pago"
+  },
+  {
+    "titular":"NELI",
+    "banco":"BANCO DO BRASIL",
+    "bandeira":"INFINITE",
+    "programa":"Não informado",
+    "fechamento":"26\/03\/2025",
+    "vencimento":"20\/04\/2025",
+    "valor":8363.0,
+    "status":"Não Pago"
+  },
+  {
+    "titular":"NELI",
+    "banco":"BANCO DO BRASIL",
+    "bandeira":"INFINITE",
+    "programa":"Não informado",
+    "fechamento":"26\/03\/2025",
+    "vencimento":"20\/04\/2025",
+    "valor":0.0,
+    "status":"Não Pago"
+  },
+  {
+    "titular":"NELI",
+    "banco":"ITAU",
+    "bandeira":"LATAM",
+    "programa":"Não informado",
+    "fechamento":"26\/03\/2025",
+    "vencimento":"20\/04\/2025",
+    "valor":0.0,
+    "status":"Não Pago"
+  },
+  {
+    "titular":"NELI",
+    "banco":"SICREDI",
+    "bandeira":"INFINITY",
+    "programa":"Não informado",
+    "fechamento":"26\/03\/2025",
+    "vencimento":"25\/04\/2025",
+    "valor":22684.0,
+    "status":"Não Pago"
+  },
+  {
+    "titular":"THUCA",
+    "banco":"CAIXA",
+    "bandeira":"INFINITE",
+    "programa":"Não informado",
+    "fechamento":"26\/03\/2025",
+    "vencimento":"25\/04\/2025",
+    "valor":0.0,
+    "status":"Não Pago"
+  },
+  {
+    "titular":"BOARIAS",
+    "banco":"SANTANDER",
+    "bandeira":"BOARIAS LTDA",
+    "programa":"Não informado",
+    "fechamento":"26\/03\/2025",
+    "vencimento":"25\/04\/2025",
+    "valor":0.0,
+    "status":"Não Pago"
+  },
+  {
+    "titular":"NELI",
+    "banco":"SANTANDER",
+    "bandeira":"ADVANTAGE",
+    "programa":"Não informado",
+    "fechamento":"26\/03\/2025",
+    "vencimento":"25\/04\/2025",
+    "valor":0.0,
+    "status":"Não Pago"
+  },
+  {
+    "titular":"BOARIAS",
+    "banco":"SANTANDER",
+    "bandeira":"BOARIAS LTDA",
+    "programa":"Não informado",
+    "fechamento":"26\/03\/2025",
+    "vencimento":"25\/04\/2025",
+    "valor":0.0,
+    "status":"Não Pago"
+  },
+  {
+    "titular":"NELI",
+    "banco":"BANCO DO BRASIL",
+    "bandeira":"SMILES",
+    "programa":"Não informado",
+    "fechamento":"26\/03\/2025",
+    "vencimento":"25\/04\/2025",
+    "valor":0.0,
+    "status":"Não Pago"
+  },
+  {
+    "titular":"NELI",
+    "banco":"SICREDI",
+    "bandeira":"INFINITY",
+    "programa":"Não informado",
+    "fechamento":"26\/03\/2025",
+    "vencimento":"25\/04\/2025",
+    "valor":0.0,
+    "status":"Não Pago"
+  }
+]
